@@ -11,3 +11,5 @@ EXPOSE 8080
 RUN npm install
 
 CMD ["npm","start"]
+
+# this is how you make
